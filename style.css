@@ -1,0 +1,36 @@
+h1{
+    color:blue
+}
+*{
+    border:solid
+}
+h2{
+    color:rgb(238, 15, 71)
+}
+.header{
+    background-color: blueviolet;
+    display :flex;
+    justify-content: space-between;
+}
+.grid{
+    display :flex;
+    justify-content: space-evenly;
+
+
+}
+.footer{
+    display: flex;
+    justify-content:flex-end;
+
+}
+p.h2{
+    text-align:center;
+}
+body{ 
+ 
+    background-color: #8e8e8e;
+    border:cyan;
+    margin:0px;
+    padding:initial;
+    font-size:inherit;
+}
